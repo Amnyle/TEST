@@ -1,0 +1,4 @@
+repository "TalesOfZyfron@Amnyle@cloud"
+  path "/"
+    br "/main"
+    co "/main"
